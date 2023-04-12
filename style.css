@@ -63,7 +63,7 @@ footer {
     color: #FFF;
     text-decoration: underline;
     font-weight: 600;
-    font-size: 11px;
+    font-size: 12px;
     opacity: 0.8;
 }
 
@@ -761,7 +761,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
