@@ -28,7 +28,7 @@ a:hover {
 }
 
 footer {
-    background-color: #fc7d42;
+    background-color: #e34a02;
     width: 100%;
     height: auto;
     display: flex;
@@ -176,6 +176,7 @@ footer {
 .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
+    opacity: 0.1;
 }
 
 .b-parallax {
@@ -856,20 +857,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #fc7d42;
+    background-color: #e34a02;
 }
 
 .tc-white {
-    color: #fc7d42!important;
+    color: #e34a02!important;
 }
 
 .btn-atomic-tangerine {
-    background: #fc7d42;
+    background: #e34a02;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #f7bea3!important;
+    background: #b53f07!important;
     color: #FFFFFF!important;
 }
 
@@ -882,11 +883,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #fc7d42!important;
+    color: #e34a02!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #f7bea3!important;
+    color: #b53f07!important;
 }
 
 .icon-dark-slate-blue {
