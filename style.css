@@ -28,7 +28,7 @@ a:hover {
 }
 
 footer {
-    background-color: #F3976C;
+    background-color: #D64309;
     width: 100%;
     height: auto;
     display: flex;
@@ -178,7 +178,7 @@ footer {
 .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 280px 280px;
-    /* opacity: 0.1; */
+    opacity: 0.1;
 }
 
 .b-parallax {
@@ -855,19 +855,19 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #0636A8;
+    background-color: #2685e2;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #D64309;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #D64309!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #D64309;
     color: #FFFFFF!important;
 }
 
@@ -885,7 +885,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #D64309!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -893,8 +893,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #0636A8!important;
-    border-color: #0636A8!important;
+    color: #2685e2!important;
+    border-color: #2685e2!important;
 }
 
 .bg-dots-bg {
